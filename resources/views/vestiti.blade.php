@@ -11,10 +11,10 @@
                         {{ $dress->tipo }}:
                         <ul>
                             <li>
-                                {{ $dress->tessuto }}
+                                Tessuto: {{ $dress->tessuto }}
                             </li>
                             <li>
-                                {{ $dress->taglia }}
+                                Taglia: {{ $dress->taglia }}
                             </li>
                         </ul>
                     </div>
