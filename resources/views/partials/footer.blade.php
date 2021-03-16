@@ -1,3 +1,5 @@
 <footer>
-    <p>ciao sono il footer</p>
+    <div>
+        
+    </div>
 </footer>
